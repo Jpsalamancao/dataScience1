@@ -7,3 +7,13 @@ Este estudio se centra precisamente en esta premisa, investigando el **comportam
 - **NVIDIA (NVDA):** Reconocida por su liderazgo en unidades de procesamiento gráfico (GPU) y su creciente influencia en la inteligencia artificial y el aprendizaje automático.
 - **AMD (AMD):** Un competidor clave en la fabricación de CPUs y GPUs, con una fuerte presencia en el mercado de centros de datos y computadoras personales.
 - **INTEL (INTC):** Un gigante histórico en la producción de microprocesadores, actualmente en una fase de reestructuración y buscando recuperar su cuota de mercado frente a sus competidores.
+
+## Objetivo del Proyecto
+
+El objetivo de este proyecto es **examinar los datos históricos de NVIDIA, AMD e INTEL para identificar patrones de rendimiento, factores de fluctuación de precios y comparativas de riesgo-recompensa**. Esto busca ofrecer una **visión clara y fundamentada**, enfatizando en el análisis histórico como **herramienta clave para una inversión estratégica y consciente** en el volátil mercado de valores, y así profundizar la comprensión de la dinámica de inversión en el sector tecnológico.
+
+### Se busca resolver los siguientes puntos:
+
+1. Identificar el rendimiento en los últimos dos años para las acciones a estudiar.
+2. Analizar la fluctuacion de precios en el periodo de tiempo a estudiar.
+3. Realizar una comparación de riesgo versus recompensa.
